@@ -6,13 +6,13 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-solana_savings_vault = "Dm88AgRVd7ddjKn2N27a5oxod5kETjKvPjJq5KZ6BbBS"
+solana_savings_vault = "8QEXwvBH22arLe4XBYRHXCKjjqQ7YaJRPxq1Aj1ZDpzC"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]

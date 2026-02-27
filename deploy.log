@@ -1,0 +1,9 @@
+Deploying cluster: https://api.devnet.solana.com
+Upgrade authority: /home/mizzytohblaq/.config/solana/id.json
+Deploying program "solana_savings_vault"...
+Program path: /home/mizzytohblaq/solana-savings-vault/target/deploy/solana_savings_vault.so...
+Program Id: 8QEXwvBH22arLe4XBYRHXCKjjqQ7YaJRPxq1Aj1ZDpzC
+
+Signature: 34duCbev7wUTZMYT7aETc3Y6aSCcW8A9Pg2rdZgeQMjjYVqtWoFGmChEDZRcmMzxuNUpniaideAt6ySma1AMqopH
+
+Deploy success
